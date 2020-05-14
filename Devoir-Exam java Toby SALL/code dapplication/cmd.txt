@@ -1,0 +1,9 @@
+Base de données: "use etude"
+
+Table:"etudient"
+
+Element de la table:  (Nom VARCHAR(50),Prenom VARCHAR(50),
+Classe VARCHAR(50),AnneeScolaire VARCHAR ());
+
+
+Ensuite tu établies la connection entre le projet et ce base de donnée
